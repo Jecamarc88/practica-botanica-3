@@ -1,52 +1,47 @@
-PARCELA,DISTÀNCIA (m),Especie,ESTRAT,Num. INDIVIDUS
+PARCEL.LA,DISTANCIA (m),ESPECIE,ESTRAT,Num. INDIVIDUS
 0,0-5m,Ulex_parviflorus,Arbustiva,1
-,,Arbustus_unedo,Arbustiva,1
-,,Quercus_cerricoides,Arborea,2
-,,Herera_helix,Lianoide,7
-,,Viburnum_tinus,Arbustiva,5
-,,Rubia_peregrina,Lianoide,3
-,,Cistus_salviifolis,Arbustiva,1
-,,Pistacea_lentiscus,Arbustiva,3
-,,Doryonium_pentaphyllum,Arbustiva,1
-,,Cistus_albidus,Arbustiva,1
-,,Quercus_coccifera,Arborea,1
-,,Lonifera_implexa,Arbustiva,1
-PARCELA,DISTÀNCIA (m),Especie,ESTRAT,Num. INDIVIDUS
+0,0-5m,Arbustus_unedo,Arbustiva,1
+0,0-5m,Quercus_cerricoides,Arborea,2
+0,0-5m,Herera_helix,Lianoide,7
+0,0-5m,Viburnum_tinus,Arbustiva,5
+0,0-5m,Rubia_peregrina,Lianoide,3
+0,0-5m,Cistus_salviifolis,Arbustiva,1
+0,0-5m,Pistacea_lentiscus,Arbustiva,3
+0,0-5m,Doryonium_pentaphyllum,Arbustiva,1
+0,0-5m,Cistus_albidus,Arbustiva,1
+0,0-5m,Quercus_coccifera,Arborea,1
+0,0-5m,Lonifera_implexa,Arbustiva,1
 1,5-10m, Quercus_cerricoides,Arborea,3
-,,Quercus_ilex,Arborea,11
-,,Herera_helix,Lianoide,10
-,,Lonifera_implexa,Arbustiva,1
-,,Erica_arborea,Arborea,11
-,,Pistacea_lentiscus,Arbustiva,4
-,,Rubia_peregrina,Lianoide,2
-,,Smilax_aspera,Arbustiva,2
-PARCELA,DISTÀNCIA (m),Especie,ESTRAT,Num. INDIVIDUS
+1,5-10m,Quercus_ilex,Arborea,11
+1,5-10m,Herera_helix,Lianoide,10
+1,5-10m,Lonifera_implexa,Arbustiva,1
+1,5-10m,Erica_arborea,Arborea,11
+1,5-10m,Pistacea_lentiscus,Arbustiva,4
+1,5-10m,Rubia_peregrina,Lianoide,2
+1,5-10m,Smilax_aspera,Arbustiva,2
 2,10-15m,Quercus_cerricoides,Arborea,4
-,,Pistacea_lentiscus,Arbustiva,2
-,,Quercus_ilex,Arborea,8
-,,Herera_helix,Lianoide,5
-,,Erica_arborea,Arborea,5
-,,Viburnum_tinus,Arbustiva,2
-,,Cistus_salviifolis,Arbustiva,1
-,,Quercus_suber,Arborea,2
-PARCELA,DISTÀNCIA (m),Especie,ESTRAT,Num. INDIVIDUS
+2,10-15m,Pistacea_lentiscus,Arbustiva,2
+2,10-15m,Quercus_ilex,Arborea,8
+2,10-15m,Herera_helix,Lianoide,5
+2,10-15m,Erica_arborea,Arborea,5
+2,10-15m,Viburnum_tinus,Arbustiva,2
+2,10-15m,Cistus_salviifolis,Arbustiva,1
+2,10-15m,Quercus_suber,Arborea,2
 3,15-20m,Quercus_ilex,Arborea,4
-,,Quercus_cerricoides,Arborea,3
-,,Erica_arborea,Arborea,3
-,,Viburnum_tinus,Arbustiva,4
-,,Rubia_peregrina,Lianoide,2
-PARCELA,DISTÀNCIA (m),Especie,ESTRAT,Num. INDIVIDUS
+3,15-20m,Quercus_cerricoides,Arborea,3
+3,15-20m,Erica_arborea,Arborea,3
+3,15-20m,Viburnum_tinus,Arbustiva,4
+3,15-20m,Rubia_peregrina,Lianoide,2
 4,20-25m,Pistacea_lentiscus,Arbustiva,2
-,,Viburnum_tinus,Arbustiva,2
-,,Herera_helix,Lianoide,21
-,,Erica_arborea,Arbustiva,9
-,,Quercus_ilex,Arborea,11
-,,Cistus_salviifolis,Arbustiva,2
-PARCELA,DISTÀNCIA (m),Especie,ESTRAT,Num. INDIVIDUS
+4,20-25m,Viburnum_tinus,Arbustiva,2
+4,20-25m,Herera_helix,Lianoide,21
+4,20-25m,Erica_arborea,Arbustiva,9
+4,20-25m,Quercus_ilex,Arborea,11
+4,20-25m,Cistus_salviifolis,Arbustiva,2
 5,25-30m,Erica_arborea,Arborea,28
-,,Quercus_ilex,Arborea,25
-,,Viburnum_tinus,Arbustiva,4
-,,Herera_helix,Lianoide,4
-,,Quercus_cerricoides,Arborea,6
-,,Cistus_salviifolis,Arbustiva,3
-,,Rubia_peregrina,Lianoide,1
+5,25-30m,Quercus_ilex,Arborea,25
+5,25-30m,Viburnum_tinus,Arbustiva,4
+5,25-30m,Herera_helix,Lianoide,4
+5,25-30m,Quercus_cerricoides,Arborea,6
+5,25-30m,Cistus_salviifolis,Arbustiva,3
+5,25-30m,Rubia_peregrina,Lianoide,1
