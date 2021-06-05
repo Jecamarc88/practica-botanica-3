@@ -46,7 +46,9 @@ x <- c(2.5, 7.5, 12.5, 17.5, 22.5, 27.5)
 par(bg="lightblue")
 plot(x, y, xlab = "Distancia al Camí (m)", ylab = "Riquesa Específica (Nombre d'Espècies)", xlim=c(0, 30), ylim=c(0, 12), pch=16, main="Riquesa Específica en Funció de la Distància al Camí")
 
+# El fet que s'aprecii una clara tendència a la baixa pel que fa a la riquesa específica a mesura que ens anem allunyant del camí, això es deu a........
 
+# Anotacions: Degut a que cadascuna de les 5 parcel.les comprenia 5 metres de llargada, en el plot s'ha decidit enquibir els punts en la meitat de cada interval. Ex: interval (0-5m, a 2.5) 
 
 
 
