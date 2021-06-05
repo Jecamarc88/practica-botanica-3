@@ -20,6 +20,9 @@
 ##variable independent: distància al camí
 
 getwd()
+setwd("C:/Users/Propietario/Documents/BOTÀNICA/PRÀCTIQUES/practica-botanica-3")
+library(dplyr)
+
 
 ## llegim el fitxer .csv
 data <- read.csv("practica-3-botanica.csv")
