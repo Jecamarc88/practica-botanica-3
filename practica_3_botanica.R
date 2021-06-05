@@ -15,7 +15,7 @@
 ##exemplificar aquesta variació. Nota, variable dependent: riqueza específica; variable 
 ##independent: distancia al camí.
 ##4. Com explicaries aquest fet?
-##5. Quines espècies aparèixen més aprop del camí i quines més allunyades? Feu un script 
+##5. (en un altre Script de R: practica_3_2_botanica.R) Quines espècies aparèixen més aprop del camí i quines més allunyades? Feu un script 
 ##per generar un plot que us permeti exemplificar-ho. Nota, variable dependent: espècie; 
 ##variable independent: distància al camí
 
