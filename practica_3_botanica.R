@@ -47,7 +47,7 @@ x <- c(2.5, 7.5, 12.5, 17.5, 22.5, 27.5)
 
 ## creació d'un plot (gràfica) amb eix x= distància al camí (variable independent) i eix y= riquesa específica (variable dependent)
 par(bg="lightblue")
-plot(x, y, xlab = "Distancia al Camí (m)", ylab = "Riquesa Específica (Nombre d'Espècies)", xlim=c(0, 30), ylim=c(0, 12), pch=16, main="Riquesa Específica en Funció de la Distància al Camí")
+plot(x, y, xlab = "Distancia al Camí (m)", ylab = "Riquesa Específica (Nombre d'Espècies)", xlim=c(0, 30), ylim=c(0, 13), pch=16, main="Riquesa Específica en Funció de la Distància al Camí")
 
 # El fet que s'aprecii una clara tendència a la baixa pel que fa a la riquesa específica a mesura que ens anem allunyant del camí, això es deu a........
 
