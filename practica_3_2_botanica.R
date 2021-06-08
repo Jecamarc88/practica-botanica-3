@@ -12,7 +12,7 @@ data <- read.csv("practica-3-botanica.csv")
 
 
 ## fem un plot per exemplificar quines espècies apareixen més a prop del camí i quines més allunyades:
-## variable independent (y) = Distància al Camí. Variable dependent: (x) = Espècie
+## variable independent (x) = Distància al Camí. Variable dependent: (y) = Espècie
 
 x <- c(2.5, 7.5, 12.5, 17.5, 22.5, 27.5)
 
